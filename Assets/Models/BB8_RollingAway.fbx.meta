@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 45d8502477d620f4bb4fef6f5a33fdf9
+timeCreated: 1531988328
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BG
+    100004: Body_Pos_Ctrl
+    100006: Body_Rot_Ctrl
+    100008: Capsule003
+    100010: Capsule003 1
+    100012: Capsule004
+    100014: Capsule004 1
+    100016: Capsule005
+    100018: Cylinder004
+    100020: Cylinder005
+    100022: Dust_01
+    100024: Dust_02
+    100026: Dust_03
+    100028: Dust_04
+    100030: Dust_05
+    100032: Dust_06
+    100034: Dust_07
+    100036: Dust_08
+    100038: Dust_09
+    100040: Dust_10
+    100042: Dust_11
+    100044: Dust_12
+    100046: Dust_13
+    100048: Dust_14
+    100050: Dust_Ctrl
+    100052: Floor
+    100054: Head_Pos_Ctrl
+    100056: Head_Rot_Ctrl
+    100058: Main_Ctrl
+    100060: Shadow
+    100062: Shadow_Ctrl
+    100064: Sphere002
+    400000: //RootNode
+    400002: BG
+    400004: Body_Pos_Ctrl
+    400006: Body_Rot_Ctrl
+    400008: Capsule003
+    400010: Capsule003 1
+    400012: Capsule004
+    400014: Capsule004 1
+    400016: Capsule005
+    400018: Cylinder004
+    400020: Cylinder005
+    400022: Dust_01
+    400024: Dust_02
+    400026: Dust_03
+    400028: Dust_04
+    400030: Dust_05
+    400032: Dust_06
+    400034: Dust_07
+    400036: Dust_08
+    400038: Dust_09
+    400040: Dust_10
+    400042: Dust_11
+    400044: Dust_12
+    400046: Dust_13
+    400048: Dust_14
+    400050: Dust_Ctrl
+    400052: Floor
+    400054: Head_Pos_Ctrl
+    400056: Head_Rot_Ctrl
+    400058: Main_Ctrl
+    400060: Shadow
+    400062: Shadow_Ctrl
+    400064: Sphere002
+    2100000: 07 - Default
+    2300000: BG
+    2300002: Capsule003
+    2300004: Capsule003 1
+    2300006: Capsule004
+    2300008: Capsule004 1
+    2300010: Capsule005
+    2300012: Cylinder004
+    2300014: Cylinder005
+    2300016: Dust_01
+    2300018: Dust_02
+    2300020: Dust_03
+    2300022: Dust_04
+    2300024: Dust_05
+    2300026: Dust_06
+    2300028: Dust_07
+    2300030: Dust_08
+    2300032: Dust_09
+    2300034: Dust_10
+    2300036: Dust_11
+    2300038: Dust_12
+    2300040: Dust_13
+    2300042: Dust_14
+    2300044: Floor
+    2300046: Shadow
+    2300048: Sphere002
+    3300000: BG
+    3300002: Capsule003
+    3300004: Capsule003 1
+    3300006: Capsule004
+    3300008: Capsule004 1
+    3300010: Capsule005
+    3300012: Cylinder004
+    3300014: Cylinder005
+    3300016: Dust_01
+    3300018: Dust_02
+    3300020: Dust_03
+    3300022: Dust_04
+    3300024: Dust_05
+    3300026: Dust_06
+    3300028: Dust_07
+    3300030: Dust_08
+    3300032: Dust_09
+    3300034: Dust_10
+    3300036: Dust_11
+    3300038: Dust_12
+    3300040: Dust_13
+    3300042: Dust_14
+    3300044: Floor
+    3300046: Shadow
+    3300048: Sphere002
+    4300000: Sphere002
+    4300002: Capsule003
+    4300004: Cylinder005
+    4300006: Cylinder004
+    4300008: Capsule005
+    4300010: Capsule004
+    4300012: Capsule004
+    4300014: Capsule003
+    4300016: Shadow
+    4300018: BG
+    4300020: Floor
+    4300022: Dust_14
+    4300024: Dust_13
+    4300026: Dust_12
+    4300028: Dust_11
+    4300030: Dust_10
+    4300032: Dust_09
+    4300034: Dust_08
+    4300036: Dust_07
+    4300038: Dust_06
+    4300040: Dust_05
+    4300042: Dust_04
+    4300044: Dust_03
+    4300046: Dust_02
+    4300048: Dust_01
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
