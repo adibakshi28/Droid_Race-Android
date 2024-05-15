@@ -1,6 +1,6 @@
 # Droid Race
 
-Droid Race is an exciting endless runner game inspired by "Temple Run," designed for Android devices. Developed using the Unity engine, this repository includes all the necessary files and resources to build, run, and modify the game. Players control a droid, navigating through various environments, avoiding obstacles, and collecting power-ups to achieve high scores.
+Droid Race is an exciting 3D endless runner game inspired by "Temple Run," designed for Android devices. Developed using the Unity engine, this repository includes all the necessary files and resources to build, run, and modify the game. Players control a droid, navigating through various environments, avoiding obstacles, and collecting power-ups to achieve high scores.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +33,7 @@ Droid Race is a thrilling endless runner game where players control a droid, nav
 ## Features
 
 - **Endless Running:** Infinite gameplay with increasing difficulty.
-- **High-Quality Graphics:** Stunning 2D graphics and animations.
+- **High-Quality Graphics:** Stunning 3D graphics and animations.
 - **Intuitive Controls:** Smooth touch controls for an enhanced gaming experience.
 - **Power-Ups:** Collect power-ups to boost your performance.
 - **Immersive Sound Effects:** High-quality sound effects to enhance the gaming experience.
@@ -46,7 +46,7 @@ To set up and run the project locally, follow these steps:
 ### Prerequisites
 
 - Unity Hub installed.
-- Unity Editor version 2020.3.0f1 or later.
+- Unity Editor (v.2017)
 - Android SDK configured.
 
 ### Steps
